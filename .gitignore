@@ -2,7 +2,8 @@
 *.isx
 *.map
 *.o
-*.dat
+col_*.dat
+channel*.dat
 *.bin
 !note_*.bin
 __pycache__
