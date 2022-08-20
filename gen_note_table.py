@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 #Licensed under the 3-Clause BSD License
 #Copyright 2021, Martin 'enthusi' Wendt / PriorArt
 #Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
