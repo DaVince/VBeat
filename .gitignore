@@ -4,6 +4,7 @@
 *.o
 *.dat
 *.bin
+!note_*.bin
 __pycache__
 
 # Don't commit the compiler EXEs
