@@ -1,0 +1,14 @@
+# Temporary and output files
+*.isx
+*.map
+*.o
+*.dat
+*.bin
+__pycache__
+
+# Don't commit the compiler EXEs
+*.EXE
+
+# Environment-specific files and configs
+.vscode
+.python-version
