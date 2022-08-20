@@ -8,6 +8,7 @@ col_*.dat
 channel*.dat
 !note_*.bin
 __pycache__
+AUDIO.VB
 
 # Don't commit the compiler EXEs
 *.EXE
